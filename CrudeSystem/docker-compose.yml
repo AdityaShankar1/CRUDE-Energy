@@ -1,0 +1,10 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: crude_db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: crude_energy
+    ports:
+      - "5432:5432"

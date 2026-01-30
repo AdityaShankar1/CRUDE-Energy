@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+*.user
+*.lock.json
+
+# Environment
+.env
+.DS_Store

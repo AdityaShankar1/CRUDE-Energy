@@ -1,0 +1,6 @@
+@Crude.Api_HostAddress = http://localhost:5189
+
+GET {{Crude.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

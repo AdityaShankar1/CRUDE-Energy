@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Crude.Api/Crude.Api.csproj" />
+    <Project Path="src/Crude.Domain/Crude.Domain.csproj" />
+    <Project Path="src/Crude.Infrastructure/Crude.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Crude.Tests/Crude.Tests.csproj" />
+  </Folder>
+</Solution>

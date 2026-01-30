@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Crude.Api/Crude.Api.csproj" />
+  <Project Path="Crude.Core/Crude.Core.csproj" />
+  <Project Path="Crude.Infrastructure/Crude.Infrastructure.csproj" />
+  <Project Path="Crude.Tests/Crude.Tests.csproj" />
+</Solution>
